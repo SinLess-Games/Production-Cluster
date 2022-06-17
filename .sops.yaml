@@ -4,9 +4,9 @@ creation_rules:
     unencrypted_regex: "^(kind)$"
     key_groups:
       - age:
-          - age19t6yuaahx4auxcxv674gdxml4clt2ex0xhf4wfp4mszgdpv4yd5qvnsdvm
+          - age1euypjjkgtafetreqs34c2yj77ljcunqjyw4rjce9jescejdgddzsm0q4j7
   - path_regex: cluster/.*\.sops\.ya?ml
     encrypted_regex: "^(data|stringData)$"
     key_groups:
       - age:
-          - age19t6yuaahx4auxcxv674gdxml4clt2ex0xhf4wfp4mszgdpv4yd5qvnsdvm
+          - age1euypjjkgtafetreqs34c2yj77ljcunqjyw4rjce9jescejdgddzsm0q4j7
